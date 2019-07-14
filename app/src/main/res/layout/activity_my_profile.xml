@@ -95,5 +95,9 @@
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
 
+<<<<<<< HEAD
 </android.support.constraint.ConstraintLayout>
 </ScrollView>
+=======
+</android.support.constraint.ConstraintLayout>
+>>>>>>> 3a87b64a336a781f8873af528713e40446ae48c5
